@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Codes\\FirstApp\\Entities\\Entities.csproj": {}
+    "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "G:\\Codes\\FirstApp\\Entities\\Entities.csproj": {
+    "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\FirstApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "G:\\Codes\\FirstApp\\Entities\\Entities.csproj",
+        "projectPath": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\FirstApp\\Entities\\obj\\",
+        "outputPath": "G:\\Codes\\testapps\\testapps\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",

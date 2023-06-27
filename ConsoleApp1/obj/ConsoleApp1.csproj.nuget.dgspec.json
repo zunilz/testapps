@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Codes\\FirstApp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj": {
+    "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj",
+        "projectUniqueName": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj",
         "projectName": "Oops",
-        "projectPath": "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj",
+        "projectPath": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj",
         "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\FirstApp\\ClassLibrary1\\obj\\",
+        "outputPath": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "G:\\Codes\\FirstApp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\FirstApp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "G:\\Codes\\FirstApp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\FirstApp\\ConsoleApp1\\obj\\",
+        "outputPath": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,14 +83,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj": {
-                "projectPath": "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj"
+              "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj": {
+                "projectPath": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj"
               },
-              "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj": {
-                "projectPath": "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj"
+              "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj": {
+                "projectPath": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj"
               },
-              "G:\\Codes\\FirstApp\\Entities\\Entities.csproj": {
-                "projectPath": "G:\\Codes\\FirstApp\\Entities\\Entities.csproj"
+              "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj": {
+                "projectPath": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj": {
+    "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj",
+        "projectUniqueName": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj",
         "projectName": "DataStructureAlgo",
-        "projectPath": "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj",
+        "projectPath": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj",
         "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\FirstApp\\DataStructureAlgo\\obj\\",
+        "outputPath": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,14 +185,14 @@
         }
       }
     },
-    "G:\\Codes\\FirstApp\\Entities\\Entities.csproj": {
+    "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\FirstApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "G:\\Codes\\FirstApp\\Entities\\Entities.csproj",
+        "projectPath": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\FirstApp\\Entities\\obj\\",
+        "outputPath": "G:\\Codes\\testapps\\testapps\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",

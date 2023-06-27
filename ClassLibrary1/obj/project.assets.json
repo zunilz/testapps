@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj",
+      "projectUniqueName": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj",
       "projectName": "Oops",
-      "projectPath": "G:\\Codes\\FirstApp\\ClassLibrary1\\Oops.csproj",
+      "projectPath": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj",
       "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-      "outputPath": "G:\\Codes\\FirstApp\\ClassLibrary1\\obj\\",
+      "outputPath": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",

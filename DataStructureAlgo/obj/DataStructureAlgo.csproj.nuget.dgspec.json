@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj": {}
+    "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj": {}
   },
   "projects": {
-    "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj": {
+    "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj",
+        "projectUniqueName": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj",
         "projectName": "DataStructureAlgo",
-        "projectPath": "G:\\Codes\\FirstApp\\DataStructureAlgo\\DataStructureAlgo.csproj",
+        "projectPath": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj",
         "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-        "outputPath": "G:\\Codes\\FirstApp\\DataStructureAlgo\\obj\\",
+        "outputPath": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",

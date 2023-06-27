@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "effGyDnoOTw0o/4VN+cm3UI+Qx+Co95PSj9r82g8SjtJqic2dnRcVQnxh6xUD8XSqnWelnobZphCIPCCaU5zRw==",
+  "dgSpecHash": "44WJB+oxwtvh1z7ikW+c4INJe1U12qLlB4g/M2nRljGRDDLLT9RrQx0RIThhf3ODVN4n0dXrHiXeHhDPjdE8SQ==",
   "success": true,
-  "projectFilePath": "G:\\Codes\\FirstApp\\Entities\\Entities.csproj",
+  "projectFilePath": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

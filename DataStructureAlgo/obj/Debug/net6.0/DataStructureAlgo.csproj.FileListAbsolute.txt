@@ -10,3 +10,15 @@ G:\Codes\FirstApp\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.dll
 G:\Codes\FirstApp\DataStructureAlgo\obj\Debug\net6.0\refint\DataStructureAlgo.dll
 G:\Codes\FirstApp\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.pdb
 G:\Codes\FirstApp\DataStructureAlgo\obj\Debug\net6.0\ref\DataStructureAlgo.dll
+G:\Codes\testapps\testapps\DataStructureAlgo\bin\Debug\net6.0\DataStructureAlgo.deps.json
+G:\Codes\testapps\testapps\DataStructureAlgo\bin\Debug\net6.0\DataStructureAlgo.dll
+G:\Codes\testapps\testapps\DataStructureAlgo\bin\Debug\net6.0\DataStructureAlgo.pdb
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.csproj.AssemblyReference.cache
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.AssemblyInfoInputs.cache
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.AssemblyInfo.cs
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.csproj.CoreCompileInputs.cache
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.dll
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\refint\DataStructureAlgo.dll
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\DataStructureAlgo.pdb
+G:\Codes\testapps\testapps\DataStructureAlgo\obj\Debug\net6.0\ref\DataStructureAlgo.dll
