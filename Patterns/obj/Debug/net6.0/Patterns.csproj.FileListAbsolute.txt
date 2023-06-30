@@ -1,0 +1,12 @@
+G:\Codes\testapps\testapps\Patterns\bin\Debug\net6.0\Patterns.deps.json
+G:\Codes\testapps\testapps\Patterns\bin\Debug\net6.0\Patterns.dll
+G:\Codes\testapps\testapps\Patterns\bin\Debug\net6.0\Patterns.pdb
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.csproj.AssemblyReference.cache
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.AssemblyInfoInputs.cache
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.AssemblyInfo.cs
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.csproj.CoreCompileInputs.cache
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.dll
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\refint\Patterns.dll
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\Patterns.pdb
+G:\Codes\testapps\testapps\Patterns\obj\Debug\net6.0\ref\Patterns.dll

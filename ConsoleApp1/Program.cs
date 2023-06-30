@@ -3,6 +3,7 @@ using Entities;
 using Newtonsoft.Json;
 using Oops;
 using DataStructureAlgo;
+using Patterns;
 using System;
 using System.Linq;
 using System.Net.Http.Json;
@@ -21,6 +22,19 @@ Console.WriteLine("binarySearch!");
 
 Console.WriteLine(algorithms.binarySearch(88, out int tryCount));
 Console.WriteLine(tryCount);
+
+Patterns.SingletonDatabaseConnection.getInstance().getConnection();
+Patterns.SingletonDatabaseConnection.getInstance().getConnection();
+Patterns.SingletonDatabaseConnection.getInstance().getConnection();
+
+INewImplementation newImplementationAdapter 
+    = new NewImplementationAdapter(new ExistingImplementation());
+
+//newImplementationAdapter.processNewScore();
+
+Console.WriteLine((new ExistingImplementation()).processScore().OuterXml);
+Console.WriteLine(JsonConvert.SerializeObject(
+    newImplementationAdapter.New_processScore(), Newtonsoft.Json.Formatting.Indented));
 
 return;
 

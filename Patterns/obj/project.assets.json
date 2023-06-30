@@ -159,50 +159,6 @@
             "rid": "win"
           }
         }
-      },
-      "DataStructureAlgo/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/DataStructureAlgo.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DataStructureAlgo.dll": {}
-        }
-      },
-      "Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entities.dll": {}
-        }
-      },
-      "Oops/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Oops.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Oops.dll": {}
-        }
-      },
-      "Patterns/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Data.SqlClient": "4.8.5"
-        },
-        "compile": {
-          "bin/placeholder/Patterns.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Patterns.dll": {}
-        }
       }
     }
   },
@@ -549,35 +505,12 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "DataStructureAlgo/1.0.0": {
-      "type": "project",
-      "path": "../DataStructureAlgo/DataStructureAlgo.csproj",
-      "msbuildProject": "../DataStructureAlgo/DataStructureAlgo.csproj"
-    },
-    "Entities/1.0.0": {
-      "type": "project",
-      "path": "../Entities/Entities.csproj",
-      "msbuildProject": "../Entities/Entities.csproj"
-    },
-    "Oops/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibrary1/Oops.csproj",
-      "msbuildProject": "../ClassLibrary1/Oops.csproj"
-    },
-    "Patterns/1.0.0": {
-      "type": "project",
-      "path": "../Patterns/Patterns.csproj",
-      "msbuildProject": "../Patterns/Patterns.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataStructureAlgo >= 1.0.0",
-      "Entities >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3",
-      "Oops >= 1.0.0",
-      "Patterns >= 1.0.0"
+      "System.Data.SqlClient >= 4.8.5"
     ]
   },
   "packageFolders": {
@@ -586,11 +519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "G:\\Codes\\testapps\\testapps\\Patterns\\Patterns.csproj",
+      "projectName": "Patterns",
+      "projectPath": "G:\\Codes\\testapps\\testapps\\Patterns\\Patterns.csproj",
       "packagesPath": "C:\\Users\\india\\.nuget\\packages\\",
-      "outputPath": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\obj\\",
+      "outputPath": "G:\\Codes\\testapps\\testapps\\Patterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\india\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -606,20 +539,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj": {
-              "projectPath": "G:\\Codes\\testapps\\testapps\\ClassLibrary1\\Oops.csproj"
-            },
-            "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj": {
-              "projectPath": "G:\\Codes\\testapps\\testapps\\DataStructureAlgo\\DataStructureAlgo.csproj"
-            },
-            "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj": {
-              "projectPath": "G:\\Codes\\testapps\\testapps\\Entities\\Entities.csproj"
-            },
-            "G:\\Codes\\testapps\\testapps\\Patterns\\Patterns.csproj": {
-              "projectPath": "G:\\Codes\\testapps\\testapps\\Patterns\\Patterns.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -635,6 +555,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "System.Data.SqlClient": {
+            "target": "Package",
+            "version": "[4.8.5, )"
           }
         },
         "imports": [

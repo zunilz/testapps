@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brZfjKMBgOONqFA3A7gyVlU+7zLIaJBGrIgaOuxNMVD1QueuD5PorATEzrvu6Sscm8Ry3nvO2pbAEAudUIKYFw==",
+  "dgSpecHash": "+fqXCa4SLn9J+htbG4LtG7HTTcnlGt3Imuza6+C8Zwh+Lzhw/C1AKF7nke8/IeaPYeyIx5nv7snRGnQg1GF8VQ==",
   "success": true,
-  "projectFilePath": "G:\\Codes\\testapps\\testapps\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "G:\\Codes\\testapps\\testapps\\Patterns\\Patterns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\india\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\india\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

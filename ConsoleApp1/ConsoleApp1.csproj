@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -15,6 +15,7 @@
     <ProjectReference Include="..\ClassLibrary1\Oops.csproj" />
     <ProjectReference Include="..\DataStructureAlgo\DataStructureAlgo.csproj" />
     <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Patterns\Patterns.csproj" />
   </ItemGroup>
 
 </Project>

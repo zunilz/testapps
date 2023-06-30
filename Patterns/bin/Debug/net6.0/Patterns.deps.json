@@ -6,16 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ConsoleApp1/1.0.0": {
+      "Patterns/1.0.0": {
         "dependencies": {
-          "DataStructureAlgo": "1.0.0",
-          "Entities": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "Oops": "1.0.0",
-          "Patterns": "1.0.0"
+          "System.Data.SqlClient": "4.8.5"
         },
         "runtime": {
-          "ConsoleApp1.dll": {}
+          "Patterns.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
@@ -100,35 +97,11 @@
           "System.Security.Principal.Windows": "4.7.0"
         }
       },
-      "System.Security.Principal.Windows/4.7.0": {},
-      "DataStructureAlgo/1.0.0": {
-        "runtime": {
-          "DataStructureAlgo.dll": {}
-        }
-      },
-      "Entities/1.0.0": {
-        "runtime": {
-          "Entities.dll": {}
-        }
-      },
-      "Oops/1.0.0": {
-        "runtime": {
-          "Oops.dll": {}
-        }
-      },
-      "Patterns/1.0.0": {
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "System.Data.SqlClient": "4.8.5"
-        },
-        "runtime": {
-          "Patterns.dll": {}
-        }
-      }
+      "System.Security.Principal.Windows/4.7.0": {}
     }
   },
   "libraries": {
-    "ConsoleApp1/1.0.0": {
+    "Patterns/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -202,26 +175,6 @@
       "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
-    },
-    "DataStructureAlgo/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Entities/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Oops/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Patterns/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
