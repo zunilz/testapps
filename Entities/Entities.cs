@@ -1,9 +1,9 @@
 ﻿namespace Entities
 {
     
-    public class Person
+    public class PersonHuman
     {
-        public Person(string firstName, string lastName, int age, string team, int countryId)
+        public PersonHuman(string firstName, string lastName, int age, string team, int countryId)
         {
             FirstName = firstName;
             LastName = lastName;

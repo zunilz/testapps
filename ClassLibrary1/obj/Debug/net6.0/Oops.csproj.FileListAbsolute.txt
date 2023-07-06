@@ -22,3 +22,6 @@ G:\Codes\testapps\testapps\ClassLibrary1\obj\Debug\net6.0\Oops.dll
 G:\Codes\testapps\testapps\ClassLibrary1\obj\Debug\net6.0\refint\Oops.dll
 G:\Codes\testapps\testapps\ClassLibrary1\obj\Debug\net6.0\Oops.pdb
 G:\Codes\testapps\testapps\ClassLibrary1\obj\Debug\net6.0\ref\Oops.dll
+G:\Codes\testapps\testapps\ClassLibrary1\bin\Debug\net6.0\Oops.exe
+G:\Codes\testapps\testapps\ClassLibrary1\bin\Debug\net6.0\Oops.runtimeconfig.json
+G:\Codes\testapps\testapps\ClassLibrary1\obj\Debug\net6.0\Oops.genruntimeconfig.cache

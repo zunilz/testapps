@@ -22,6 +22,7 @@ Console.WriteLine("binarySearch!");
 
 Console.WriteLine(algorithms.binarySearch(88, out int tryCount));
 Console.WriteLine(tryCount);
+ 
 
 Patterns.SingletonDatabaseConnection.getInstance().getConnection();
 Patterns.SingletonDatabaseConnection.getInstance().getConnection();
@@ -30,13 +31,19 @@ Patterns.SingletonDatabaseConnection.getInstance().getConnection();
 INewImplementation newImplementationAdapter 
     = new NewImplementationAdapter(new ExistingImplementation());
 
+//NewImplementationAdapter newImplementationAdapter1 = new NewImplementationAdapter(new ExistingImplementation());
+//newImplementationAdapter1.New_processScore();
+
 //newImplementationAdapter.processNewScore();
 
-Console.WriteLine((new ExistingImplementation()).processScore().OuterXml);
+Console.WriteLine((new ExistingImplementation()).ExistingProcessScore().OuterXml);
 Console.WriteLine(JsonConvert.SerializeObject(
     newImplementationAdapter.New_processScore(), Newtonsoft.Json.Formatting.Indented));
 
-return;
+Calc calc = new Calc();
+Console.WriteLine(calc.add(5,7));
+
+//return;
 
 
 Console.WriteLine("Hello, World!");
@@ -45,20 +52,20 @@ var SO1 = SingleTonObj.Instance;
 
 var SO2 = SingleTonObj.Instance;
 
-var people = new List<Person>()
+var people = new List<PersonHuman>()
 {
-            new Person("Bill", "Smith", 40, "United",1),
-            new Person("Sarah", "Jones", 20, "Madrid",2),
-            new Person("Stacy","Baker", 20, "Madrid",3),
-            new Person("Vivianne","Dexter", 19 , "Milan", 1),
-            new Person("Bob","Smith", 50 , "Milan", 1),
-            new Person("Brett","Baker", 50, "United", 2),
-            new Person("Mark","Parker", 19, "Milan", 3),
-            new Person("Alice","Thompson", 18, "Madrid", 2),
-            new Person("Evelyn","Thompson", 18, "United", 3),
-            new Person("Mort","Martin", 60, "Milan", 2),
-            new Person("Eugene","deLauter", 80 , "Madrid", 1),
-            new Person("Gail","Dawson", 19, "United", 2),
+            new PersonHuman("Bill", "Smith", 40, "United",1),
+            new PersonHuman("Sarah", "Jones", 20, "Madrid",2),
+            new PersonHuman("Stacy","Baker", 20, "Madrid",3),
+            new PersonHuman("Vivianne","Dexter", 19 , "Milan", 1),
+            new PersonHuman("Bob","Smith", 50 , "Milan", 1),
+            new PersonHuman("Brett","Baker", 50, "United", 2),
+            new PersonHuman("Mark","Parker", 19, "Milan", 3),
+            new PersonHuman("Alice","Thompson", 18, "Madrid", 2),
+            new PersonHuman("Evelyn","Thompson", 18, "United", 3),
+            new PersonHuman("Mort","Martin", 60, "Milan", 2),
+            new PersonHuman("Eugene","deLauter", 80 , "Madrid", 1),
+            new PersonHuman("Gail","Dawson", 19, "United", 2),
 
  };
 
@@ -74,6 +81,8 @@ var resultSet = from person in people
 
 //Console.WriteLine(JsonConvert.SerializeObject(
 //    resultSet, Newtonsoft.Json.Formatting.Indented));
+
+ 
 
 var groupResult = people.GroupBy(x => x.Team).ToList();
 

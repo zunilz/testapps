@@ -1,0 +1,5 @@
+G:\Codes\testapps\testapps\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+G:\Codes\testapps\testapps\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\testapps\testapps\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+G:\Codes\testapps\testapps\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+G:\Codes\testapps\testapps\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache

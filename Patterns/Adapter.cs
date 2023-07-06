@@ -13,7 +13,7 @@ namespace Patterns
 
     public class ExistingImplementation
     {
-        public XmlDocument processScore()
+        public XmlDocument ExistingProcessScore()
         {
 
             XmlDocument doc = new XmlDocument();
@@ -35,7 +35,7 @@ namespace Patterns
         public string New_processScore()
         {
             string newResponse =
-                JsonConvert.SerializeXmlNode(_existingImplementation.processScore());
+                JsonConvert.SerializeXmlNode(_existingImplementation.ExistingProcessScore());
             return newResponse;
         }
     }
@@ -43,5 +43,19 @@ namespace Patterns
 
     public interface INewImplementation {
         string New_processScore();
+    }
+
+    interface ICalc<T>
+    {
+        T add(T a, T b);
+    }
+    public class Calc: ICalc<int> 
+    {
+        int sum;
+        public int add(int varA, int varB) {
+
+            sum = varA + varB;
+            return sum;
+        }
     }
 }
