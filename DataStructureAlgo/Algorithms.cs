@@ -10,6 +10,11 @@
             itemList = new int[10] { 2, 4, 6, 7, 14, 44, 88, 155, 753, 4436 };
         }
 
+        public Algorithms(int[] ints)
+        {
+            itemList = ints;
+        }
+
         public int? binarySearch(int searchQ, out int numberOfTries)
         {
             int? foundIndex = null;

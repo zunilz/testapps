@@ -24,6 +24,9 @@ namespace Patterns
 
             TestCalss testCalss1 = new TestCalss();
 
+            AccountFactory accountFactory = new AccountFactory();
+            Account account = accountFactory.CreateAccount("Savings");
+
         }
 
        
